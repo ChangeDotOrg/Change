@@ -1,0 +1,24 @@
+{
+  "name": "change",
+  "version": "0.0.1",
+  "description": "3d webgl app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChangeDotOrg/Change.git"
+  },
+  "author": "Change",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChangeDotOrg/Change/issues"
+  },
+  "homepage": "https://github.com/ChangeDotOrg/Change#readme",
+  "dependencies": {
+    "electron": "^1.6.11",
+    "three": "^0.86.0"
+  }
+}
