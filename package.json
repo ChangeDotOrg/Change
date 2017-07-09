@@ -19,6 +19,7 @@
   "homepage": "https://github.com/ChangeDotOrg/Change#readme",
   "dependencies": {
     "electron": "^1.6.11",
+    "eslint": "^4.1.1",
     "three": "^0.86.0"
   }
 }
